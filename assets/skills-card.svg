@@ -1,0 +1,62 @@
+<svg width="450" height="340" viewBox="0 0 450 340" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .title { fill: #ffffff; font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .label { fill: #ffffff; font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .pct { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .track { fill: #21262d; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="449" height="339" rx="20" class="bg"/>
+
+  <text x="30" y="38" class="title">Skills Progress</text>
+
+  <!-- HTML / CSS -->
+  <circle cx="38" cy="72" r="10" fill="#E44D26"/>
+  <text x="58" y="77" class="label">HTML / CSS</text>
+  <rect x="150" y="66" width="230" height="12" rx="6" class="track"/>
+  <rect x="150" y="66" width="184" height="12" rx="6" fill="#E44D26"/>
+  <text x="392" y="76" class="pct" fill="#E44D26">80%</text>
+
+  <!-- Python -->
+  <circle cx="38" cy="112" r="10" fill="#3776AB"/>
+  <text x="58" y="117" class="label">Python</text>
+  <rect x="150" y="106" width="230" height="12" rx="6" class="track"/>
+  <rect x="150" y="106" width="184" height="12" rx="6" fill="#3776AB"/>
+  <text x="392" y="116" class="pct" fill="#3776AB">80%</text>
+
+  <!-- Kotlin -->
+  <circle cx="38" cy="152" r="10" fill="#7F52FF"/>
+  <text x="58" y="157" class="label">Kotlin</text>
+  <rect x="150" y="146" width="230" height="12" rx="6" class="track"/>
+  <rect x="150" y="146" width="138" height="12" rx="6" fill="#7F52FF"/>
+  <text x="392" y="156" class="pct" fill="#7F52FF">60%</text>
+
+  <!-- ML / AI -->
+  <circle cx="38" cy="192" r="10" fill="#43A047"/>
+  <text x="58" y="197" class="label">ML / AI</text>
+  <rect x="150" y="186" width="230" height="12" rx="6" class="track"/>
+  <rect x="150" y="186" width="161" height="12" rx="6" fill="#43A047"/>
+  <text x="392" y="196" class="pct" fill="#43A047">70%</text>
+
+  <!-- C -->
+  <circle cx="38" cy="232" r="10" fill="#A8B9CC"/>
+  <text x="58" y="237" class="label">C</text>
+  <rect x="150" y="226" width="230" height="12" rx="6" class="track"/>
+  <rect x="150" y="226" width="138" height="12" rx="6" fill="#A8B9CC"/>
+  <text x="392" y="236" class="pct" fill="#A8B9CC">60%</text>
+
+  <!-- C++ -->
+  <circle cx="38" cy="272" r="10" fill="#00599C"/>
+  <text x="58" y="277" class="label">C++</text>
+  <rect x="150" y="266" width="230" height="12" rx="6" class="track"/>
+  <rect x="150" y="266" width="138" height="12" rx="6" fill="#00599C"/>
+  <text x="392" y="276" class="pct" fill="#00599C">60%</text>
+
+  <!-- JavaScript -->
+  <circle cx="38" cy="312" r="10" fill="#F0DB4F"/>
+  <text x="58" y="317" class="label">JavaScript</text>
+  <rect x="150" y="306" width="230" height="12" rx="6" class="track"/>
+  <rect x="150" y="306" width="115" height="12" rx="6" fill="#F0DB4F"/>
+  <text x="392" y="316" class="pct" fill="#F0DB4F">50%</text>
+</svg>

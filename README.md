@@ -27,6 +27,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,kotlin,py,mysql,vscode,github,git,linux&perline=7&theme=light" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OUSSAMABAHOU50/OUSSAMABAHOU50/main/assets/skills-card.svg" />
+</div>
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OUSSAMABAHOU50&count_private=true&theme=dark&border_radius=20" alt="streak stats"/>

@@ -5,7 +5,6 @@
 - 👨🏻‍💻 | **Computer Science & AI Student at FSN (Faculté des Sciences Nador)**
 
 - 🤖 | Exploring **Artificial Intelligence | Machine Learning | Computer Vision | Data Science**
-- 🫱🏻‍🫲🏻 | Let's Connect on LinkedIn : <a href="https://www.linkedin.com/in/oussama-bahou-4a6b73319" target="_blank">@OussamaBhaou</a>
 - 📨 | How to reach me : **oussama.bahouuu@gmail.com**
 
 <h3 align="center">Connect with me :</h3>

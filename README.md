@@ -6,28 +6,28 @@
 
 - 🤖 | Exploring **Artificial Intelligence | Machine Learning | Computer Vision | Data Science**
 - 🫱🏻‍🫲🏻 | Let's Connect on LinkedIn : <a href="https://www.linkedin.com/in/oussama-bahou-4a6b73319" target="_blank">@OussamaBhaou</a>
-- 📨 | How to reach me : **oussamabahou50@gmail.com**
+- 📨 | How to reach me : **oussama.bahouuu@gmail.com**
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
-<a href="https://linkedin.com/in/oussama-bhaou" target="_blank">
+<a href="https://www.linkedin.com/in/oussama-bahou-4a6b73319" target="_blank">
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=35&reverseBackground=true"/>
 </a>
 
 <a href="https://instagram.com/oussamabahou" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=35&reverseBackground=true"/>
+    <img align="center" src="https://www.instagram.com/o.bahou_9?igsh=b3E2ZDV2OW1kN2J5/api/social-icon?name=instagram&size=35&reverseBackground=true"/>
 </a>
 <a href="https://x.com/oussamabahou" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=x&size=35&reverseBackground=true"/>
+    <img align="center" src="https://x.com/O_Bahou/api/social-icon?name=x&size=35&reverseBackground=true"/>
 </a>
 <a href="https://fb.com/oussamabahou" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=35&reverseBackground=true"/>
+    <img align="center" src="https://www.facebook.com/share/17ULfBxVBj//api/social-icon?name=facebook&size=35&reverseBackground=true"/>
 </a>
 </p>
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,java,py,mysql,vscode,github,git,md,linux&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,kt,py,mysql,vscode,github,git,md,linux&perline=7&theme=light" />
 </div>
 
 <div align=center>
